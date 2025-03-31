@@ -54,7 +54,7 @@ Cart.jsx/Header.jsx (react to changes)
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/react-shopping-cart.git
+git clone https://github.com/sepehrshahinfar/AdvancedStateManagement.git
 2. Install dependencies
 npm install
 3. Run the development server
